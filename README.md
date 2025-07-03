@@ -17,23 +17,10 @@ This repository contains an in-depth analysis of Amazon sales data, aiming to un
 ## 🧰 Tools & Technologies
 
 - **Languages**: Python, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **BI Tools**: Tableau / Power BI (for interactive dashboards)
-- **Jupyter Notebook**: For EDA and reporting
+- **BI Tools**:  Power BI (for interactive dashboards)
 - **Excel**: For quick filtering and pivot-based summaries
 
 ---
-
-## 📈 Key Insights
-
-Some of the insights discovered (examples):
-
-- 🔥 **Top Performing Categories**: Electronics and Home Appliances contributed to 60%+ of total sales.
-- 🕒 **Peak Order Hours**: Most sales occurred between 7 PM - 9 PM.
-- 🌍 **Top Regions**: California and Texas had the highest order volume.
-- 📦 **Repeat Customers**: Over 30% of customers returned for a second purchase within 3 months.
-
-*More details can be found in the Jupyter notebooks and dashboards.*
 
 
 ## 📊 Dashboards
